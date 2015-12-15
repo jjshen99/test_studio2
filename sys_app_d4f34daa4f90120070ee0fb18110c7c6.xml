@@ -6,7 +6,7 @@
         <js_level/>
         <licensable>true</licensable>
         <logo/>
-        <menu display_value="App_D9">d4f3c1ea4f90120070ee0fb18110c7d6</menu>
+        <menu/>
         <name>App_D9</name>
         <private>false</private>
         <restrict_runtime_access>true</restrict_runtime_access>
@@ -27,7 +27,7 @@
         <sys_updated_on>2015-12-15 23:17:44</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_snc_app_d9.user" name="x_snc_app_d9.user">dcf3c1ea4f90120070ee0fb18110c7d6</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>1.0</version>
