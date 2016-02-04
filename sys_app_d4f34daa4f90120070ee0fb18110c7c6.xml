@@ -13,6 +13,7 @@
         <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_app_d9</scope>
+        <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_app_d9</source>
         <store_correlation_id/>
