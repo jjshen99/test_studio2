@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-02-04 18:49:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3eaf62fe4f9112003124fe618110c7a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_app_d9_table3.x_snc_app_d9_table3_user</sys_name>
+        <sys_package display_value="App_D9" source="x_snc_app_d9">d4f34daa4f90120070ee0fb18110c7c6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App_D9">d4f34daa4f90120070ee0fb18110c7c6</sys_scope>
+        <sys_security_acl display_value="x_snc_app_d9_table3">32af62fe4f9112003124fe618110c7a5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3eaf62fe4f9112003124fe618110c7a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-02-04 18:49:41</sys_updated_on>
+        <sys_user_role display_value="x_snc_app_d9_table3_user" name="x_snc_app_d9_table3_user">76af2e7e4f9112003124fe618110c7d4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

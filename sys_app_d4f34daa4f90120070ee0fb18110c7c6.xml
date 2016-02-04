@@ -2,7 +2,7 @@
 <record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
-        <enforce_license>log</enforce_license>
+        <enforce_license>enforce</enforce_license>
         <js_level/>
         <licensable>true</licensable>
         <logo/>
@@ -13,6 +13,7 @@
         <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_app_d9</scope>
+        <scoped_administration>false</scoped_administration>
         <short_description>xvvvv</short_description>
         <source>x_snc_app_d9</source>
         <store_correlation_id/>
@@ -22,9 +23,9 @@
         <sys_created_by>jianjun.shen@snc</sys_created_by>
         <sys_created_on>2015-12-15 23:17:44</sys_created_on>
         <sys_id>d4f34daa4f90120070ee0fb18110c7c6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>jj</sys_updated_by>
-        <sys_updated_on>2015-12-16 19:53:30</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-02-04 18:48:35</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
